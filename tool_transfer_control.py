@@ -1,7 +1,7 @@
 path_sd15 = './models/v1-5-pruned.ckpt'
 path_sd15_with_control = './models/control_sd15_openpose.pth'
-path_input = './models/anything-v3-full.safetensors'
-path_output = './models/control_any3_openpose.pth'
+path_input = './models/chilloutmix_NiPrunedFp32Fix.safetensors'
+path_output = './models/control_chilloutmix_NiPrunedFp32Fix_openpose.pth'
 
 
 import os
